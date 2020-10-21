@@ -1,0 +1,23 @@
+rect {
+    stroke-width: 1px;
+    stroke: dimgray;
+}
+
+rect:hover {
+      fill: brown;
+}
+
+rect:hover {
+  fill-opacity: 1;
+}
+circle {
+    stroke: 1px solid gray;
+}
+
+.tick line{
+    stroke: gray;
+}
+
+.gline    {       
+     border: 1px solid lightgray;
+}
